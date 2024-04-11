@@ -161,7 +161,8 @@ cython_debug/
 
 # repo-specific
 # notebooks/
-notebooks/visualization.ipynb
+notebooks/*
+!notebooks/electricity_price_forecasting.ipynb
 
 # data/
 data/*
